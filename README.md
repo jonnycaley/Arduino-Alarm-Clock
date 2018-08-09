@@ -8,3 +8,5 @@ Instructions
 2. Run the file Coursework.ino using the downloaded application
 
 3. Enjoy :)
+
+For a visual representation please watch Video.MOV
