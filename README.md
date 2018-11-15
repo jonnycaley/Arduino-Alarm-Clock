@@ -1,4 +1,8 @@
 # Arduino-Alarm-Clock
+University module coursework: Embedded System Programming
+
+Result: 87%
+
 An alarm clock using an Arduino Board
 
 Instructions
